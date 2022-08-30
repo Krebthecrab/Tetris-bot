@@ -454,4 +454,4 @@ async def on_reaction_add(reaction, user):
             await message.edit(content="")
 
 
-client.run('MTAxNDE5MDczNDQxNDQ1ODg4MA.GGZtiy.bbanoZ7HDKpkotFAfd7yL0cAqNkixRHTODUHBY')
+client.run('MTAxNDE5MDczNDQxNDQ1ODg4MA.GNMY0t.R2VX1c23-mBdKbt0lzyipkj4E5WO3RGWY7lJGQ')
